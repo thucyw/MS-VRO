@@ -1,10 +1,17 @@
+<!--
+ * @Description: 
+ * @Author: jmx
+ * @Date: 2023-06-23 15:00:04
+ * @LastEditTime: 2023-06-28 23:09:46
+ * @LastEditors: Please set LastEditors
+-->
 # T-VRO
 
 ## Dataset
 
 ### Download Links
 
-The dataset uploaded to the [Google Drive](https://drive.google.com/drive/folders/1Vxi79ThJ5jib47OreHMpMemNj-RfqNB5?usp=sharing).
+The dataset is uploaded [here](https://nas.orca-tech.cn:5000/sharing/kYibp97On). The rosbags are all compressed. To use the dataset, you can first download and decompress the rosbags.
 
 ### Details
 
